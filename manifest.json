@@ -1,0 +1,13 @@
+{
+    "name": "Daily Quotes",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.jpg"
+    },
+    "icons":{
+        "128": "logo.jpg"
+    },
+    "permissions": ["activeTab"]
+}
